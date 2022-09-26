@@ -1,0 +1,32 @@
+
+//== Font
+
+//$font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family: CentraNo2-Book;
+
+$font-family-title: 'Source Serif Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-size: 16px;
+$font-height: 1.5;
+
+//== Color
+
+$color-background: #ffffff;
+$color-foreground: #003e48; //#212529;
+$color-link: #E7592F;
+$color-accent: #E7592F;
+$color-accent-lighter: #436eff;
+$color-accent-darker: #E7592F;
+$color-shade-1: #eceff1;
+$color-shade-2: #cfd8dc;
+$color-shade-3: #DEE2E2;
+$color-shade-4: #455a64;
+
+$error: #d7373f;
+$error-darker: #be1e26;
+$success: #268e6c;
+$success-darker: #0d7553;
+
+$color-text: $color-foreground;
+$color-text-inverted: #003e48; //$color-background;
+$color-shadow: #212529;
+$color-transparent: rgba(0, 0, 0, 0);
