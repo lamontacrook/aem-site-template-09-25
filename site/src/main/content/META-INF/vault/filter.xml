@@ -4,4 +4,5 @@
     <filter root="/content/aem-site-template-09-25" mode="merge"/>
     <filter root="/content/dam/aem-site-template-09-25" mode="merge"/>
     <filter root="/content/experience-fragments/aem-site-template-09-25" mode="merge"/>
+    <filter root="/content/experience-fragments/aem-site-template-09-25/site" mode="merge"/>
 </workspaceFilter>

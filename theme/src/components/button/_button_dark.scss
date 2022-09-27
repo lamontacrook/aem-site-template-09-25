@@ -1,10 +1,8 @@
-.call-to-action {
-  text-align: right;
-  margin-top: 0;
+.button-dark {
   .cmp-button {
     background-color: $color-accent;
     border-color: $color-accent;
-    border-radius: 4px;
+    
     &:hover {
       background-color: $color-accent-darker;
       border-color: $color-accent-darker;

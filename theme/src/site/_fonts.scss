@@ -11,9 +11,9 @@
 }
 
 @include fontface(defaultFont, 'CentraNo2-Book', normal);
-@include fontface(titleFont, 'CentraNo2-Bold', bold);
-@include fontface(defaultFont, 'CentraNo2-Medium', bolder);
-@include fontface(defaultFont, 'GT-Super-Display-Bold-Italic', bold);
+@include fontface(textFont, 'CentraNo2-Bold', bold);
+@include fontface(mediumFont, 'CentraNo2-Medium', bolder);
+@include fontface(titleFont, 'GT-Super-Display-Bold-Italic', bold);
 
 /*@include fontface(defaultFont, 'SourceSansPro/SourceSansPro-Black', bolder);
 @include fontface(defaultFont, 'SourceSansPro/SourceSansPro-BlackItalic', bolder, italic);

@@ -7,8 +7,8 @@
 //== Site global
 
 @import 'npm:normalize.css';
-@import 'site/fonts';
-@import 'site/base';
+@import 'site/_fonts';
+@import 'site/_base';
 
 //== Core components
 
@@ -27,6 +27,8 @@
 @import 'src/components/button/_button_primary_over_background.scss';
 @import 'src/components/button/_button_quiet.scss';
 @import 'src/components/button/_button_quiet_over_background.scss';
+@import 'src/components/button/_button_dark.scss';
+@import 'src/components/button/_button_clear.scss';
 
 @import 'src/components/separator/_separator.scss';
 @import 'src/components/separator/_separator_small.scss';
@@ -61,6 +63,7 @@
 @import 'src/components/container/_container_content.scss';
 @import 'src/components/container/_container_dark_theme.scss';
 @import 'src/components/container/_container_main.scss';
+@import 'src/components/container/_container_navigation_buttons.scss';
 
 @import 'src/components/carousel/_carousel.scss';
 

@@ -26,7 +26,7 @@
                         sling:resourceType="core/wcm/components/teaser/v2/teaser"
                         actionsEnabled="true"
                         descriptionFromPage="false"
-                        fileReference="/content/dam/aem-site-template-09-25/Image@2x.png"
+                        fileReference="/content/dam/aem-site-template-09-25/site/default-banner.png"
                         pretitle="Teasers"
                         textIsRich="true"
                         titleFromPage="false">

@@ -27,6 +27,6 @@ $success: #268e6c;
 $success-darker: #0d7553;
 
 $color-text: $color-foreground;
-$color-text-inverted: #003e48; //$color-background;
+$color-text-inverted: $color-background;
 $color-shadow: #212529;
 $color-transparent: rgba(0, 0, 0, 0);

@@ -1,6 +1,6 @@
 {
   "name": "aem-site-template-09-25",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "Standard AEM Site Template used as a starter template for general purpose websites",
   "license": "MIT License, Copyright 2020 Adobe Systems Incorporated",
   "scripts": {
@@ -19,7 +19,7 @@
     ],
     "docsUrl": "",
     "showcaseUrl": "",
-    "sourceRepositoryUrl": "https://github.com/adobe/aem-site-template-standard",
+    "sourceRepositoryUrl": "https://github.com/lamontacrook/aem-site-template-09-25",
     "openItem": "{Path}/en/home"
   }
 }
