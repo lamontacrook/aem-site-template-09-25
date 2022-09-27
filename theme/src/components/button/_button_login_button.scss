@@ -1,0 +1,49 @@
+.login-button {
+  text-align: right;
+  margin-top: 0;
+  
+  .cmp-button {
+    background-color: transparent;
+    border:0;
+    display: flex;
+    //border-color: $color-accent;
+    //border-radius: 4px;
+    margin-top:0;
+    &:hover {
+      background-color: $color-accent-darker;
+      border-color: $color-accent-darker;
+    }
+    &:focus {
+      background-color: $color-accent-lighter;
+      border-color: $color-background;
+      outline: none;
+      box-shadow: 0 0 0 0.125em $color-accent-lighter;
+    }
+    &:disabled {
+      background-color: $color-shade-1;
+      border-color: $color-shade-1;
+      & .cmp-button__text {
+        color: $color-text;
+      }
+    }
+  }
+
+  .cmp-button__text {
+    color: $color-text;
+    margin-left: 10px;
+    
+  }
+
+  .cmp-button__icon::after {
+    background-image: url(https://cdn2.hubspot.net/hub/1775981/images/omada-sprite-v-3.svg);
+    background-position: -26px -2px;
+    background-repeat: no-repeat;
+    content: " ";
+    display: block;
+    height: 22px;
+    left: 0;
+    //position: absolute;
+    top: calc(50% - 11px);
+    width: 22px;
+  }
+}
