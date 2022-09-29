@@ -12,7 +12,7 @@
     "@adobe/aem-site-template-builder": "2.3.1"
   },
   "siteTemplate": {
-    "title": "Demo 09/25",
+    "title": "Omada Site Template",
     "createdBy": "Adobe",
     "useCases": [
       "General purpose sites, corporate marketing sites, landing pages, blog sites, content marketing"

@@ -25,7 +25,7 @@
     margin: 0;
     padding: 1rem 0 1rem 0;
     padding-left: 30px;
-    background-color: red;
+
     transform: none;
   }
   .cmp-teaser__pretitle {
@@ -82,8 +82,8 @@
   }
 
   .cmp-teaser__action-link:first-child {
-    background-color: $color-accent;
-    border: 0.125em solid $color-accent;
+    background-color: white; //$color-accent;
+    border: 0.125em solid white; //$color-accent;
 
     &:hover {
       background-color: $color-accent-darker;
@@ -102,7 +102,7 @@
   }
 
   .cmp-teaser__action-link:not(:first-child) {
-    color: $color-shade-4;
+    color: $color-accent; //$color-shade-4;
     background-color: rgba(0, 0, 0, 0);
     border: 0.125em solid $color-shade-4;
 
