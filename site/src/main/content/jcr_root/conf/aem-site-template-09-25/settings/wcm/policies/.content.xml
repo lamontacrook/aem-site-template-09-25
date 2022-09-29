@@ -612,6 +612,8 @@
                         <button jcr:primaryType="nt:unstructured">
                             <policy_default
                                 cq:styleDefaultClasses="call-to-action"
+                                jcr:lastModified="{Date}2022-09-27T13:27:28.276-06:00"
+                                jcr:lastModifiedBy="admin"
                                 jcr:primaryType="nt:unstructured"
                                 jcr:title="Content Button"
                                 sling:resourceType="wcm/core/components/policy/policy">
@@ -645,6 +647,16 @@
                                                 cq:styleClasses="quiet-over-background"
                                                 cq:styleId="1613070405522"
                                                 cq:styleLabel="Quiet over background"
+                                                jcr:primaryType="nt:unstructured"/>
+                                            <item5
+                                                cq:styleClasses="login-button"
+                                                cq:styleId="1664306695863"
+                                                cq:styleLabel="Login"
+                                                jcr:primaryType="nt:unstructured"/>
+                                            <item6
+                                                cq:styleClasses="contact-us-button"
+                                                cq:styleId="1664306710037"
+                                                cq:styleLabel="Contact Us"
                                                 jcr:primaryType="nt:unstructured"/>
                                         </cq:styles>
                                     </item0>
